@@ -1,0 +1,3 @@
+[submodule "inventoryMgt"]
+	path = inventoryMgt
+	url = https://github.com/Rohan074/inventoryMgt.git
